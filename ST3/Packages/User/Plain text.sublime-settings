@@ -1,0 +1,13 @@
+// These settings override both User and Default settings for the Plain text syntax
+{
+	"font_face": "Courier Prime",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 18,
+	"wrap_width": 59,
+	"spell_check": true,
+	"dictionary": "Packages/Language - Ukrainian/uk_UA.dic"
+}
